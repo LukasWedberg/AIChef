@@ -351,7 +351,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8265467298694345519, guid: 53e3e8651f97f23469915b553ace9447, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -89.39992
+      value: -89.39993
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -518,7 +518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e61546bea7f2a74795ab29cfc5f9657, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _apiKey: 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
+  _apiKey: 
   _model: 0
   _maxTokens: 3072
   _temperature: 0.6
